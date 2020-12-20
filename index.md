@@ -1,8 +1,11 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/BagasMahier12a/visualisasi-sorting/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Repository ini diperuntukkan untuk memenuhi Tugas Besar Analisis Kompleksitas Algoritma, Proyek ini di kerjakan oleh Dua orang.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Algoritma Bubble Sort
+2. Algoritma Insertion Sort
+
+Menggunakan Bahasa Python
 
 ### Markdown
 
