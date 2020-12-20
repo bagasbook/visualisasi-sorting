@@ -11,3 +11,14 @@ Menggunakan Bahasa Pemrograman Python
   - Github  : https://github.com/BagasMahier12a
 - Wisnu Wardana - 1303190075
   - Github  : https://github.com/wisnuw12
+  
+ # Getting Started
+ Proyek ini dibuat menggunakan Python Versi 3.9 
+ 
+ INSTALLATION
+ - Python V.3.9
+   - https://www.python.org/downloads/
+ - Library Tkinter
+ 
+ 
+ 
