@@ -27,3 +27,10 @@ Python3 sorting.py
 # Result
  
 ![Screenshot from 2020-12-20 15-40-19](https://user-images.githubusercontent.com/41775959/102709227-f07d9d80-42da-11eb-98bb-c3d21d328e07.png)
+
+#Link Referensi 
+Thanks to 
+- https://github.com/clementmihailescu/Sorting-Visualizer
+- https://github.com/rizkyfransisca/Visualisasi-Sorting
+- https://github.com/nrsyed/sorts
+- https://github.com/DennisLovesCoffee/Sorting_Algorithm_Visualization
