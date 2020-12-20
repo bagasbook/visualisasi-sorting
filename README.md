@@ -19,6 +19,9 @@ Menggunakan Bahasa Pemrograman Python
  - Python V.3.9
    - https://www.python.org/downloads/
  - Library Tkinter
- 
+   - pip3 install Tkinter
+   
+ # Running the tests
+Python3 sorting.py
  
  
