@@ -31,7 +31,7 @@ Python3 sorting.py
 # Vidio Penjelasan di Youtube Kami
  - https://youtu.be/DoAhRUhsgww
 
-#Link Referensi 
+# Link Referensi 
 Thanks to 
 - https://github.com/clementmihailescu/Sorting-Visualizer
 - https://github.com/rizkyfransisca/Visualisasi-Sorting
