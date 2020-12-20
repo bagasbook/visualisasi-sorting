@@ -7,8 +7,7 @@ Proyek ini di publikasikan untuk memenuhi tugas mata kuliah Analisis dan Komplek
 Menggunakan Bahasa Pemrograman Python
 
 # Developed By 
--Bagas Alfito Prismawan - 1303193027 
-Github  : https://github.com/BagasMahier12a
-
--Wisnu Wardana - 1303190075
-Github  : https://github.com/wisnuw12
+- Bagas Alfito Prismawan - 1303193027
+  - Github  : https://github.com/BagasMahier12a
+- Wisnu Wardana - 1303190075
+  - Github  : https://github.com/wisnuw12
